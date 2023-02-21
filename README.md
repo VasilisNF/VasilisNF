@@ -10,5 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything (Python related)
 - 📫 How to reach me: ... [LinkedIn]()
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am Greek
--->
+- ⚡ Fun fact: ... I love to travel
