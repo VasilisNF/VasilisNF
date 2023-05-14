@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... my own
 - 🌱 I’m currently learning ... Kafka/Informatica
 - 👯 I’m looking to collaborate on ... SQL
-- 🤔 I’m looking for help with ... AWS
+- 🤔 I’m looking for help with ... Kafka/Informatica
 - 💬 Ask me about ... Anything (Python related)
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/fermelis/)
 - 😄 Pronouns: ... He/Him
