@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... my own
-- 🌱 I’m currently learning ... SQL
+- 🌱 I’m currently learning ... programming languages
 - 👯 I’m looking to collaborate on ... SQL
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything (Python related)
